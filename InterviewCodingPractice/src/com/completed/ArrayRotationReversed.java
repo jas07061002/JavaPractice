@@ -1,6 +1,7 @@
 package com.completed;
 
 import java.util.Arrays;
+import java.util.Collections;
 
 public class ArrayRotationReversed {
 
@@ -20,8 +21,9 @@ public class ArrayRotationReversed {
 //		System.out.println();
 		}
 		}
-		
-		System.out.println(Arrays.toString(arr));
+		System.out.println(); 
+		 
+	//	System.out.println(Arrays.toString(arr));
 
 	}
 
